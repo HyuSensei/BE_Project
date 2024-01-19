@@ -1,7 +1,7 @@
 const { Sequelize } = require("sequelize");
 
-const sequelize = new Sequelize("skinlele-react", "root", null, {
-  host: "localhost",
+const sequelize = new Sequelize("sql12678001", "sql12678001", "WjxQNSgXcH", {
+  host: "sql12.freesqldatabase.com",
   dialect: "mysql",
 });
 const connection = async () => {
