@@ -1,8 +1,8 @@
 const { Sequelize } = require("sequelize");
 
-const sequelize = new Sequelize("sql12678001", "sql12678001", "WjxQNSgXcH", {
-  host: "sql12.freesqldatabase.com",
-  dialect: "mysql",
+const sequelize = new Sequelize("skinlele-react", "postgres", "Huyphan2002@", {
+  host: "db.elanygpgfrapwdrouemh.supabase.co",
+  dialect: "postgres",
 });
 const connection = async () => {
   try {

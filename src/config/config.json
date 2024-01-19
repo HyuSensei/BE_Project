@@ -1,24 +1,24 @@
 {
   "development": {
-    "username": "sql12678001",
-    "password": "WjxQNSgXcH",
-    "database": "sql12678001",
-    "host": "sql12.freesqldatabase.com",
-    "dialect": "mysql",
+    "username": "postgres",
+    "password": "Huyphan2002@",
+    "database": "skinlele-react",
+    "host": "db.elanygpgfrapwdrouemh.supabase.co",
+    "dialect": "postgres",
     "logging":false
   },
   "test": {
-    "username": "sql12678001",
-    "password": "WjxQNSgXcH",
-    "database": "sql12678001",
-    "host": "sql12.freesqldatabase.com",
-    "dialect": "mysql"
+    "username": "postgres",
+    "password": "Huyphan2002@",
+    "database": "skinlele-react",
+    "host": "db.elanygpgfrapwdrouemh.supabase.co",
+    "dialect": "postgres"
   },
   "production": {
-    "username": "sql12678001",
-    "password": "WjxQNSgXcH",
-    "database": "sql12678001",
-    "host": "sql12.freesqldatabase.com",
-    "dialect": "mysql"
+    "username": "postgres",
+    "password": "Huyphan2002@",
+    "database": "skinlele-react",
+    "host": "db.elanygpgfrapwdrouemh.supabase.co",
+    "dialect": "postgres"
   }
 }
